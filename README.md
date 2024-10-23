@@ -26,10 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jrodri96/Jrodri96/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Linkedin</p>
 
 ###
