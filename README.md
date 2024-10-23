@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Linkedin</p>
+<h3 align="left">Linkedin</h3>
 
 ###
 
