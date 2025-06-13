@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/julio-andrés-rodríguez-gómez-502977255" target="_blank">
+  <a href="[www.linkedin.com/in/julio-andrés-rodríguez-gómez-502977255](https://www.linkedin.com/in/julio-andr%C3%A9s-rodr%C3%ADguez-g%C3%B3mez-502977255)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
